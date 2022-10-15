@@ -1,0 +1,848 @@
+cid,email,iid,iname,strength
+AMD310,AMD310@courses.iitd.ac.in,tiwariv,Vikrant Tiwari,1
+AMD813,AMD813@courses.iitd.ac.in,sroy,Sitikantha Roy,1
+AMD814,AMD814@courses.iitd.ac.in,sroy,Sitikantha Roy,34
+AMD895,AMD895@courses.iitd.ac.in,tiwariv,Vikrant Tiwari,3
+AMD897,AMD897@courses.iitd.ac.in,ismakkar,Ishaq Sayed Makkar,27
+AML310,AML310@courses.iitd.ac.in,sroy,Sitikantha Roy,12
+AML702,AML702@courses.iitd.ac.in,adewan,Anupam Dewan,40
+AML706,AML706@courses.iitd.ac.in,dks,D K Sehgal,27
+AML793,AML793@courses.iitd.ac.in,ismakkar,Ishaq Sayed Makkar,27
+AML795,AML795@courses.iitd.ac.in,ismakkar,Ishaq Sayed Makkar,27
+AML831,AML831@courses.iitd.ac.in,maloy,Maloy Kumar Singha,9
+AML832,AML832@courses.iitd.ac.in,bppatel,Badri Prasad Patel,27
+AML835,AML835@courses.iitd.ac.in,tiwariv,Vikrant Tiwari,12
+AMP776,AMP776@courses.iitd.ac.in,sns,S N Singh,26
+AMV803,AMV803@courses.iitd.ac.in,svrvalli,S V Veeravalli,0
+APL100A,APL100A@courses.iitd.ac.in,pradyum,S Pradyumna,219
+APL100B,APL100B@courses.iitd.ac.in,arjunsharma,Arjun Sharma,228
+APL102,APL102@courses.iitd.ac.in,sureshn,Suresh Neelakantan,151
+APL105,APL105@courses.iitd.ac.in,murali,Murali Raman Cholemari,102
+APL705,APL705@courses.iitd.ac.in,hegde,Sriram Hegde,37
+APL711,APL711@courses.iitd.ac.in,arghya,Arghya Samanta,20
+APL715,APL715@courses.iitd.ac.in,svrvalli,S V Veeravalli,10
+APL720,APL720@courses.iitd.ac.in,sawan,Sawan Suman Sinha,27
+APL763,APL763@courses.iitd.ac.in,rajesh,Rajesh Prasad,13
+APL767,APL767@courses.iitd.ac.in,ngosvami,Nitya Nand Gosvami,22
+APL774,APL774@courses.iitd.ac.in,ssantapuri,Sushma Santapuri,12
+APL796,APL796@courses.iitd.ac.in,ajeetk,Ajeet Kumar,18
+APL871,APL871@courses.iitd.ac.in,suhail,Suhail Ahmed,27
+ASD330,ASD330@courses.iitd.ac.in,dilipganguly,Dilip Ganguly,8
+ASD881,ASD881@courses.iitd.ac.in,sagnik,Sagnik Dey,1
+ASD882,ASD882@courses.iitd.ac.in,sagnik,Sagnik Dey,6
+ASL410,ASL410@courses.iitd.ac.in,ssahany,Sandeep Sahany,84
+ASL733,ASL733@courses.iitd.ac.in,mmanju,Manju Mohan,31
+ASL734,ASL734@courses.iitd.ac.in,mathilis,Maithili Sharan,13
+ASL736,ASL736@courses.iitd.ac.in,akrishna,Krishna Mirle Achutarao,36
+ASL737,ASL737@courses.iitd.ac.in,adrao,A D Rao,12
+ASL738,ASL738@courses.iitd.ac.in,skdash,S K Dash,12
+ASL754,ASL754@courses.iitd.ac.in,dilipganguly,Dilip Ganguly,22
+ASL755,ASL755@courses.iitd.ac.in,sagnik,Sagnik Dey,42
+ASL757,ASL757@courses.iitd.ac.in,skm,Saroj Kanta Mishra,80
+ASL760,ASL760@courses.iitd.ac.in,drsbr,Somnath Baidya Roy,23
+ASL763,ASL763@courses.iitd.ac.in,vimlesh,Vimlesh Pant,27
+ASP820,ASP820@courses.iitd.ac.in,opsharma,O P Sharma,12
+ASV866,ASV866@courses.iitd.ac.in,ssahany,Sandeep Sahany,23
+BBL341,BBL341@courses.iitd.ac.in,zia,Shaikh Ziauddin Ahammad,22
+BBL343,BBL343@courses.iitd.ac.in,anarang,Atul Narang,17
+BBL431,BBL431@courses.iitd.ac.in,vbisaria,V S Bisaria,65
+BBL432,BBL432@courses.iitd.ac.in,sunath,Sunil Nath,46
+BBL433,BBL433@courses.iitd.ac.in,elangovan,Ravi Krishnan Elangovan,48
+BBL434,BBL434@courses.iitd.ac.in,sundar,D Sundar,46
+BBL443,BBL443@courses.iitd.ac.in,ashishmisra,Ashish Misra,21
+BBL445,BBL445@courses.iitd.ac.in,gopal,G P Agarwal,39
+BBL736,BBL736@courses.iitd.ac.in,anarang,Atul Narang,49
+BBL740,BBL740@courses.iitd.ac.in,ashokks,A K Srivastava,12
+BBL742,BBL742@courses.iitd.ac.in,sree,T R Sreekrishnan,50
+BBL745,BBL745@courses.iitd.ac.in,preeti,Preeti Srivastava,41
+BBL746,BBL746@courses.iitd.ac.in,sarojm,Saroj Mishra,25
+BBL747,BBL747@courses.iitd.ac.in,pmishra,Prashant Mishra,46
+BBL749,BBL749@courses.iitd.ac.in,ritu,Ritu Kulshrestha,21
+BBQ301,BBQ301@courses.iitd.ac.in,pkrc,P K Roychoudhury,58
+BBQ302,BBQ302@courses.iitd.ac.in,pmishra,Prashant Mishra,36
+BBQ303,BBQ303@courses.iitd.ac.in,ashishmisra,Ashish Misra,16
+BEC750,BEC750@courses.iitd.ac.in,shilpi,Shilpi Sharma,33
+BED800,BED800@courses.iitd.ac.in,ritu,Ritu Kulshrestha,14
+BED851,BED851@courses.iitd.ac.in,shilpi,Shilpi Sharma,0
+BED852,BED852@courses.iitd.ac.in,shilpi,Shilpi Sharma,12
+BED853,BED853@courses.iitd.ac.in,shilpi,Shilpi Sharma,4
+BED854,BED854@courses.iitd.ac.in,shilpi,Shilpi Sharma,23
+BMD742,BMD742@courses.iitd.ac.in,amehndiratta,Amit Mehndiratta,2
+BML710,BML710@courses.iitd.ac.in,veenak,Veena Koul,13
+BML735,BML735@courses.iitd.ac.in,anupsm,Anup Singh,16
+BML741,BML741@courses.iitd.ac.in,dineshk,Dinesh Kalyanasundaram,37
+BML750,BML750@courses.iitd.ac.in,sandeepjha,Sandeep Kumar Jha,13
+BML790,BML790@courses.iitd.ac.in,amehndiratta,Amit Mehndiratta,7
+BML800,BML800@courses.iitd.ac.in,sneha,Sneh Anand,50
+BML820,BML820@courses.iitd.ac.in,harpal,Harpal Singh,15
+BMV700,BMV700@courses.iitd.ac.in,dineshk,Dinesh Kalyanasundaram,35
+BMV704,BMV704@courses.iitd.ac.in,joshid,Deepak Joshi,25
+BSD895,BSD895@courses.iitd.ac.in,shankar.prakriya,Shankar Prakriya,3
+CED812,CED812@courses.iitd.ac.in,shahu,Jagdish Telangrao Shahu,1
+CED822,CED822@courses.iitd.ac.in,abhijit.ganguli,Abhijit Ganguli,6
+CED852,CED852@courses.iitd.ac.in,tanusree,Tanusree Chakraborty,1
+CEL724,CEL724@courses.iitd.ac.in,matsagar,Vasant A Matsagar,3
+CEL761,CEL761@courses.iitd.ac.in,raoks,K S Rao,1
+CHC410,CHC410@courses.iitd.ac.in,rajkh,Rajesh Khanna,1
+CHD411,CHD411@courses.iitd.ac.in,jphirani,Jyoti Phirani,11
+CHD412,CHD412@courses.iitd.ac.in,jphirani,Jyoti Phirani,0
+CHD771,CHD771@courses.iitd.ac.in,dbhatia,Divesh Bhatia,5
+CHD782,CHD782@courses.iitd.ac.in,dbhatia,Divesh Bhatia,0
+CHD871,CHD871@courses.iitd.ac.in,dbhatia,Divesh Bhatia,3
+CHD872,CHD872@courses.iitd.ac.in,dbhatia,Divesh Bhatia,45
+CHD873,CHD873@courses.iitd.ac.in,dbhatia,Divesh Bhatia,1
+CHD874,CHD874@courses.iitd.ac.in,dbhatia,Divesh Bhatia,2
+CHD895,CHD895@courses.iitd.ac.in,shalinig,Shalini Gupta,0
+CHL727,CHL727@courses.iitd.ac.in,kkpant,Kamal Kishore Pant,23
+CHP301,CHP301@courses.iitd.ac.in,vs225,Vikram Singh,1
+CHP303,CHP303@courses.iitd.ac.in,munawar,Shaik Abdul Munawar,1
+CHP311,CHP311@courses.iitd.ac.in,rajkh,Rajesh Khanna,1
+CLD412,CLD412@courses.iitd.ac.in,jphirani,Jyoti Phirani,0
+CLD413,CLD413@courses.iitd.ac.in,jphirani,Jyoti Phirani,1
+CLD414,CLD414@courses.iitd.ac.in,jphirani,Jyoti Phirani,4
+CLD415,CLD415@courses.iitd.ac.in,jphirani,Jyoti Phirani,0
+CLD771,CLD771@courses.iitd.ac.in,shalinig,Shalini Gupta,22
+CLD781,CLD781@courses.iitd.ac.in,shalinig,Shalini Gupta,0
+CLD782,CLD782@courses.iitd.ac.in,shalinig,Shalini Gupta,12
+CLD880,CLD880@courses.iitd.ac.in,dbhatia,Divesh Bhatia,47
+CLD895,CLD895@courses.iitd.ac.in,shalinig,Shalini Gupta,0
+CLL121,CLL121@courses.iitd.ac.in,goelg,Gaurav Goel,126
+CLL122,CLL122@courses.iitd.ac.in,roys,Shantanu Roy,174
+CLL231,CLL231@courses.iitd.ac.in,jphirani,Jyoti Phirani,180
+CLL251,CLL251@courses.iitd.ac.in,jayati,Jayati Sarkar,191
+CLL271,CLL271@courses.iitd.ac.in,arathore,Anurag Singh Rathore,133
+CLL352,CLL352@courses.iitd.ac.in,anilverma,Anil Verma,120
+CLL361,CLL361@courses.iitd.ac.in,munawar,Shaik Abdul Munawar,116
+CLL371,CLL371@courses.iitd.ac.in,sreedevi,Sreedevi Upadhyayula,108
+CLL475,CLL475@courses.iitd.ac.in,aksaroha,Anil Kumar Saroha,49
+CLL722,CLL722@courses.iitd.ac.in,anupam,Anupam Shukla,23
+CLL727,CLL727@courses.iitd.ac.in,kkpant,Kamal Kishore Pant,30
+CLL731,CLL731@courses.iitd.ac.in,vvbuwa,Vivek Vitthal Buwa,98
+CLL733,CLL733@courses.iitd.ac.in,ratan,Ratan Mohan,96
+CLL735,CLL735@courses.iitd.ac.in,sbasu,Suddhasatwa Basu,9
+CLL766,CLL766@courses.iitd.ac.in,ashoknb,A N Bhaskarwar,52
+CLL767,CLL767@courses.iitd.ac.in,sudip,Sudip Kumar Pattanayek,19
+CLL771,CLL771@courses.iitd.ac.in,vs225,Vikram Singh,21
+CLL772,CLL772@courses.iitd.ac.in,paresh,Paresh Pravinchandra Chokshi,12
+CLL779,CLL779@courses.iitd.ac.in,shalinig,Shalini Gupta,44
+CLL782,CLL782@courses.iitd.ac.in,munawar,Shaik Abdul Munawar,28
+CLL785,CLL785@courses.iitd.ac.in,mcramteke,Manojkumar Charandas Ramteke,56
+CLL786,CLL786@courses.iitd.ac.in,rajkh,Rajesh Khanna,67
+CLL793,CLL793@courses.iitd.ac.in,sgupta,S K Gupta,64
+CLP302,CLP302@courses.iitd.ac.in,vs225,Vikram Singh,162
+CLP704,CLP704@courses.iitd.ac.in,shalinig,Shalini Gupta,57
+CLQ301,CLQ301@courses.iitd.ac.in,ratan,Ratan Mohan,27
+CLQ302,CLQ302@courses.iitd.ac.in,sbasu,Suddhasatwa Basu,35
+CMD641,CMD641@courses.iitd.ac.in,sisn,S Nagendran,50
+CMD807,CMD807@courses.iitd.ac.in,sdeep,Shashank Deep,14
+CML100A,CML100A@courses.iitd.ac.in,slgholap,Gholap Shivajirao Lahu,215
+CML100B,CML100B@courses.iitd.ac.in,slgholap,Gholap Shivajirao Lahu,234
+CML521,CML521@courses.iitd.ac.in,sdeep,Shashank Deep,54
+CML522,CML522@courses.iitd.ac.in,nkurur,Narayanan D Kurur,57
+CML523,CML523@courses.iitd.ac.in,ramesh,N G Ramesh,55
+CML524,CML524@courses.iitd.ac.in,dkbp,D K Bandyopadhyay,54
+CML525,CML525@courses.iitd.ac.in,sisn,S Nagendran,54
+CML526,CML526@courses.iitd.ac.in,dtanmay,Tanmay Dutta,53
+CML665,CML665@courses.iitd.ac.in,pramitc,Pramit Kumar Chowdhury,10
+CML675,CML675@courses.iitd.ac.in,ravips,Ravi P Singh,2
+CML695,CML695@courses.iitd.ac.in,skkhare,Sunil Kumar Khare,16
+CML724,CML724@courses.iitd.ac.in,shankar,Ravi Shankar,58
+CML729,CML729@courses.iitd.ac.in,ppingole,Pravin Popinand Ingole,25
+CML737,CML737@courses.iitd.ac.in,njain,Nidhi Jain,26
+CML738,CML738@courses.iitd.ac.in,elias,Anil Jacob Elias,23
+CML739,CML739@courses.iitd.ac.in,skkhare,Sunil Kumar Khare,24
+CML740,CML740@courses.iitd.ac.in,ravips,Ravi P Singh,17
+CML801,CML801@courses.iitd.ac.in,hkashyap,Hemant Kumar Kashyap,19
+CMP100A,CMP100A@courses.iitd.ac.in,ppingole,Pravin Popinand Ingole,211
+CMP100B,CMP100B@courses.iitd.ac.in,ppingole,Pravin Popinand Ingole,224
+CMP521,CMP521@courses.iitd.ac.in,nalinp,Nalin Pant,53
+CMP522,CMP522@courses.iitd.ac.in,dtanmay,Tanmay Dutta,53
+CMP728,CMP728@courses.iitd.ac.in,sapra,Sameer Sapra,12
+COD310,COD310@courses.iitd.ac.in,ragesh,Ragesh Jaiswal,20
+COD492,COD492@courses.iitd.ac.in,ragesh,Ragesh Jaiswal,2
+COD494,COD494@courses.iitd.ac.in,ragesh,Ragesh Jaiswal,17
+COD891,COD891@courses.iitd.ac.in,srsarangi,Smruti Ranjan Sarangi,71
+COD892,COD892@courses.iitd.ac.in,srsarangi,Smruti Ranjan Sarangi,1
+COD893,COD893@courses.iitd.ac.in,srsarangi,Smruti Ranjan Sarangi,24
+COD895,COD895@courses.iitd.ac.in,srsarangi,Smruti Ranjan Sarangi,9
+COL100A,COL100A@courses.iitd.ac.in,saran,Huzur Saran,257
+COL100B,COL100B@courses.iitd.ac.in,subodh,Subodh Kumar,215
+COL106,COL106@courses.iitd.ac.in,ragesh,Ragesh Jaiswal,220
+COL216,COL216@courses.iitd.ac.in,anshul,Anshul Kumar,111
+COL226,COL226@courses.iitd.ac.in,sanjiva,Sanjiva Prasad,130
+COL331,COL331@courses.iitd.ac.in,sbansal,Sorav Bansal,131
+COL352,COL352@courses.iitd.ac.in,naveen,Naveen Garg,117
+COL362,COL362@courses.iitd.ac.in,ramanath,Maya Ramanath,108
+COL380,COL380@courses.iitd.ac.in,svs,Subodh Vishnu Sharma,115
+COL632,COL632@courses.iitd.ac.in,ramanath,Maya Ramanath,17
+COL633,COL633@courses.iitd.ac.in,sbansal,Sorav Bansal,19
+COL718,COL718@courses.iitd.ac.in,srsarangi,Smruti Ranjan Sarangi,37
+COL726,COL726@courses.iitd.ac.in,suban,Subhashis Banerjee,46
+COL740,COL740@courses.iitd.ac.in,scgupta,Suresh Chand Gupta,92
+COL756,COL756@courses.iitd.ac.in,amitk,Amit Kumar,16
+COL757,COL757@courses.iitd.ac.in,ssen,Sandeep Sen,5
+COL758,COL758@courses.iitd.ac.in,snm,S N Maheshwari,12
+COL774,COL774@courses.iitd.ac.in,parags,Parag Singla,115
+COL781,COL781@courses.iitd.ac.in,pkalra,Prem Kumar Kalra,79
+COL786,COL786@courses.iitd.ac.in,rahulgarg,Rahul Garg,17
+COL812,COL812@courses.iitd.ac.in,panda,Preeti Ranjan Panda,24
+COL819,COL819@courses.iitd.ac.in,srsarangi,Smruti Ranjan Sarangi,22
+COL863,COL863@courses.iitd.ac.in,bagchi,Amitabha Bagchi,9
+COL864,COL864@courses.iitd.ac.in,mausam,Mausam,16
+COL867,COL867@courses.iitd.ac.in,vinay,Vinay Joseph Ribeiro,41
+COL869,COL869@courses.iitd.ac.in,sak,S Arun-Kumar,6
+COP290,COP290@courses.iitd.ac.in,kolin,Kolin Paul,101
+COP315,COP315@courses.iitd.ac.in,mbala,M Balakrishnan,72
+COQ301,COQ301@courses.iitd.ac.in,vinay,Vinay Joseph Ribeiro,30
+COQ302,COQ302@courses.iitd.ac.in,anshul,Anshul Kumar,30
+COQ303,COQ303@courses.iitd.ac.in,rahulgarg,Rahul Garg,30
+COQ304,COQ304@courses.iitd.ac.in,sanjiva,Sanjiva Prasad,29
+COS310,COS310@courses.iitd.ac.in,ragesh,Ragesh Jaiswal,5
+COS799,COS799@courses.iitd.ac.in,srsarangi,Smruti Ranjan Sarangi,4
+COV880,COV880@courses.iitd.ac.in,rahulgarg,Rahul Garg,1
+COV881,COV881@courses.iitd.ac.in,kolin,Kolin Paul,10
+COV882,COV882@courses.iitd.ac.in,sanjiva,Sanjiva Prasad,12
+COV885,COV885@courses.iitd.ac.in,anshul,Anshul Kumar,23
+COV886,COV886@courses.iitd.ac.in,amitk,Amit Kumar,20
+COV888,COV888@courses.iitd.ac.in,parags,Parag Singla,39
+CRD802,CRD802@courses.iitd.ac.in,prabhubabu,Prabhu Babu,24
+CRD811,CRD811@courses.iitd.ac.in,prabhubabu,Prabhu Babu,1
+CRD812,CRD812@courses.iitd.ac.in,prabhubabu,Prabhu Babu,28
+CRD814,CRD814@courses.iitd.ac.in,prabhubabu,Prabhu Babu,2
+CRL702,CRL702@courses.iitd.ac.in,arunkm,Arun Kumar,29
+CRL704,CRL704@courses.iitd.ac.in,maggarwal,Monika Aggarwal,13
+CRL706,CRL706@courses.iitd.ac.in,rbahl,Rajendra Bahl,8
+CRL712,CRL712@courses.iitd.ac.in,skkoul,S K Koul,15
+CRL722,CRL722@courses.iitd.ac.in,samareshdas,Samaresh Das,13
+CRL724,CRL724@courses.iitd.ac.in,ananjan,Ananjan Basu,27
+CRL732,CRL732@courses.iitd.ac.in,prsingh,Pushpapraj Singh,6
+CSD310,CSD310@courses.iitd.ac.in,ragesh,Ragesh Jaiswal,1
+CSD411,CSD411@courses.iitd.ac.in,ragesh,Ragesh Jaiswal,3
+CSD412,CSD412@courses.iitd.ac.in,ragesh,Ragesh Jaiswal,1
+CSD750,CSD750@courses.iitd.ac.in,srsarangi,Smruti Ranjan Sarangi,0
+CSD851,CSD851@courses.iitd.ac.in,srsarangi,Smruti Ranjan Sarangi,1
+CSD852,CSD852@courses.iitd.ac.in,srsarangi,Smruti Ranjan Sarangi,7
+CSD853,CSD853@courses.iitd.ac.in,srsarangi,Smruti Ranjan Sarangi,1
+CSD854,CSD854@courses.iitd.ac.in,srsarangi,Smruti Ranjan Sarangi,20
+CSD893,CSD893@courses.iitd.ac.in,srsarangi,Smruti Ranjan Sarangi,0
+CSD894,CSD894@courses.iitd.ac.in,srsarangi,Smruti Ranjan Sarangi,0
+CSL100,CSL100@courses.iitd.ac.in,subodh,Subodh Kumar,174
+CSS310,CSS310@courses.iitd.ac.in,ragesh,Ragesh Jaiswal,0
+CVC772,CVC772@courses.iitd.ac.in,knjha,Kumar Neeraj Jha,30
+CVD411,CVD411@courses.iitd.ac.in,alappat,Babu J Alappat,14
+CVD412,CVD412@courses.iitd.ac.in,alappat,Babu J Alappat,17
+CVD700,CVD700@courses.iitd.ac.in,shahu,Jagdish Telangrao Shahu,0
+CVD710,CVD710@courses.iitd.ac.in,tanusree,Tanusree Chakraborty,0
+CVD720,CVD720@courses.iitd.ac.in,arunku,Arun Kumar,0
+CVD721,CVD721@courses.iitd.ac.in,arunku,Arun Kumar,16
+CVD756,CVD756@courses.iitd.ac.in,abhijit.ganguli,Abhijit Ganguli,0
+CVD757,CVD757@courses.iitd.ac.in,abhijit.ganguli,Abhijit Ganguli,0
+CVD758,CVD758@courses.iitd.ac.in,abhijit.ganguli,Abhijit Ganguli,17
+CVD772,CVD772@courses.iitd.ac.in,knjha,Kumar Neeraj Jha,0
+CVD773,CVD773@courses.iitd.ac.in,knjha,Kumar Neeraj Jha,26
+CVD777,CVD777@courses.iitd.ac.in,knjha,Kumar Neeraj Jha,0
+CVD778,CVD778@courses.iitd.ac.in,knjha,Kumar Neeraj Jha,12
+CVD800,CVD800@courses.iitd.ac.in,shahu,Jagdish Telangrao Shahu,0
+CVD801,CVD801@courses.iitd.ac.in,shahu,Jagdish Telangrao Shahu,10
+CVD810,CVD810@courses.iitd.ac.in,tanusree,Tanusree Chakraborty,0
+CVD811,CVD811@courses.iitd.ac.in,tanusree,Tanusree Chakraborty,14
+CVD831,CVD831@courses.iitd.ac.in,chakma,Sumedha Chakma,0
+CVD832,CVD832@courses.iitd.ac.in,chakma,Sumedha Chakma,10
+CVD853,CVD853@courses.iitd.ac.in,geetamt,Geetam Tewari,0
+CVD854,CVD854@courses.iitd.ac.in,geetamt,Geetam Tewari,14
+CVD895,CVD895@courses.iitd.ac.in,mdatta,Manoj Datta,1
+CVL100,CVL100@courses.iitd.ac.in,aknema,Arvind Kumar Nema,454
+CVL212,CVL212@courses.iitd.ac.in,arunku,Arun Kumar,106
+CVL222,CVL222@courses.iitd.ac.in,ramana,Venkata Ramana Gunturi,92
+CVL242,CVL242@courses.iitd.ac.in,abhijit.ganguli,Abhijit Ganguli,101
+CVL244,CVL244@courses.iitd.ac.in,knjha,Kumar Neeraj Jha,103
+CVL261,CVL261@courses.iitd.ac.in,rrkalaga,Ramachandra Rao Kalaga,98
+CVL281,CVL281@courses.iitd.ac.in,smathur,Shashi Mathur,105
+CVL313,CVL313@courses.iitd.ac.in,gazala,Gazala Habib,59
+CVL342,CVL342@courses.iitd.ac.in,supratic,Supratic Gupta,105
+CVL381,CVL381@courses.iitd.ac.in,chakma,Sumedha Chakma,116
+CVL382,CVL382@courses.iitd.ac.in,chahar,Bhagu Ram Chahar,31
+CVL422,CVL422@courses.iitd.ac.in,ramana,Venkata Ramana Gunturi,11
+CVL431,CVL431@courses.iitd.ac.in,bmanna,Bappaditya Manna,66
+CVL443,CVL443@courses.iitd.ac.in,madan,Alok Madan,50
+CVL702,CVL702@courses.iitd.ac.in,araman,R Ayothiraman,15
+CVL703,CVL703@courses.iitd.ac.in,mdatta,Manoj Datta,17
+CVL705,CVL705@courses.iitd.ac.in,bmanna,Bappaditya Manna,14
+CVL706,CVL706@courses.iitd.ac.in,shahu,Jagdish Telangrao Shahu,12
+CVL712,CVL712@courses.iitd.ac.in,kgsharma,K G Sharma,24
+CVL713,CVL713@courses.iitd.ac.in,kgsharma,K G Sharma,21
+CVL714,CVL714@courses.iitd.ac.in,tanusree,Tanusree Chakraborty,24
+CVL715,CVL715@courses.iitd.ac.in,raoks,K S Rao,25
+CVL721,CVL721@courses.iitd.ac.in,alappat,Babu J Alappat,42
+CVL723,CVL723@courses.iitd.ac.in,arunku,Arun Kumar,15
+CVL724,CVL724@courses.iitd.ac.in,aknema,Arvind Kumar Nema,53
+CVL728,CVL728@courses.iitd.ac.in,mukeshk,Mukesh Khare,40
+CVL734,CVL734@courses.iitd.ac.in,kaushal,Deo Raj Kaushal,10
+CVL735,CVL735@courses.iitd.ac.in,nkgarg,N K Garg,11
+CVL746,CVL746@courses.iitd.ac.in,manojm,Manoj M,44
+CVL760,CVL760@courses.iitd.ac.in,gurmail,Gurmail S Benipal,17
+CVL761,CVL761@courses.iitd.ac.in,drsahoo,Dipti Ranjan Sahoo,23
+CVL762,CVL762@courses.iitd.ac.in,matsagar,Vasant A Matsagar,29
+CVL769,CVL769@courses.iitd.ac.in,aknagpal,A K Nagpal,13
+CVL774,CVL774@courses.iitd.ac.in,kciyer,K C Iyer,51
+CVL775,CVL775@courses.iitd.ac.in,kciyer,K C Iyer,54
+CVL776,CVL776@courses.iitd.ac.in,akjain,A K Jain,53
+CVL778,CVL778@courses.iitd.ac.in,bishwa,B Bhattacharjee,5
+CVL811,CVL811@courses.iitd.ac.in,tanusree,Tanusree Chakraborty,4
+CVL825,CVL825@courses.iitd.ac.in,gazala,Gazala Habib,7
+CVL830,CVL830@courses.iitd.ac.in,akeshari,A K Keshari,11
+CVL832,CVL832@courses.iitd.ac.in,rkhosa,Rakesh Khosa,0
+CVL833,CVL833@courses.iitd.ac.in,rkhosa,Rakesh Khosa,5
+CVL838,CVL838@courses.iitd.ac.in,gosain,A K Gosain,13
+CVL844,CVL844@courses.iitd.ac.in,akswamy,Aravind Krishna Swamy,14
+CVL845,CVL845@courses.iitd.ac.in,akswamy,Aravind Krishna Swamy,3
+CVL847,CVL847@courses.iitd.ac.in,geetamt,Geetam Tewari,40
+CVL849,CVL849@courses.iitd.ac.in,rrkalaga,Ramachandra Rao Kalaga,14
+CVL859,CVL859@courses.iitd.ac.in,gurmail,Gurmail S Benipal,9
+CVL861,CVL861@courses.iitd.ac.in,sbhalla,Suresh Bhalla,12
+CVL864,CVL864@courses.iitd.ac.in,sbhalla,Suresh Bhalla,18
+CVL871,CVL871@courses.iitd.ac.in,bishnoi,Shashank Bishnoi,27
+CVL875,CVL875@courses.iitd.ac.in,bishwa,B Bhattacharjee,7
+CVP222,CVP222@courses.iitd.ac.in,tanusree,Tanusree Chakraborty,94
+CVP242,CVP242@courses.iitd.ac.in,abhijit.ganguli,Abhijit Ganguli,95
+CVP261,CVP261@courses.iitd.ac.in,akswamy,Aravind Krishna Swamy,95
+CVP281,CVP281@courses.iitd.ac.in,kaushal,Deo Raj Kaushal,95
+CVP342,CVP342@courses.iitd.ac.in,drsahoo,Dipti Ranjan Sahoo,106
+CVP730,CVP730@courses.iitd.ac.in,nkgarg,N K Garg,9
+CVP731,CVP731@courses.iitd.ac.in,dhanya,Dhanya C.T.,8
+CVP756,CVP756@courses.iitd.ac.in,supratic,Supratic Gupta,30
+CVP771,CVP771@courses.iitd.ac.in,bishnoi,Shashank Bishnoi,20
+CVP800,CVP800@courses.iitd.ac.in,shahu,Jagdish Telangrao Shahu,12
+CVP810,CVP810@courses.iitd.ac.in,raoks,K S Rao,21
+CVQ301,CVQ301@courses.iitd.ac.in,bishnoi,Shashank Bishnoi,108
+CVS754,CVS754@courses.iitd.ac.in,rrkalaga,Ramachandra Rao Kalaga,0
+CVS756,CVS756@courses.iitd.ac.in,abhijit.ganguli,Abhijit Ganguli,0
+CYD670,CYD670@courses.iitd.ac.in,sisn,S Nagendran,0
+CYD799,CYD799@courses.iitd.ac.in,ramesh,N G Ramesh,0
+CYD801,CYD801@courses.iitd.ac.in,ramesh,N G Ramesh,0
+CYD802,CYD802@courses.iitd.ac.in,ramesh,N G Ramesh,0
+CYS801,CYS801@courses.iitd.ac.in,ramesh,N G Ramesh,0
+DSC812,DSC812@courses.iitd.ac.in,gufranskhan,Gufran Sayeed Khan,7
+DSD792,DSD792@courses.iitd.ac.in,sumerid,Sumer Singh,19
+DSD801,DSD801@courses.iitd.ac.in,alvyas,A L Vyas,1
+DSD802,DSD802@courses.iitd.ac.in,alvyas,A L Vyas,10
+DSD892,DSD892@courses.iitd.ac.in,atreya,S K Atreya,19
+DSL712,DSL712@courses.iitd.ac.in,shahani,D T Shahani,33
+DSL714,DSL714@courses.iitd.ac.in,agarwala,A K Agarwala,8
+DSL732,DSL732@courses.iitd.ac.in,sumerid,Sumer Singh,19
+DSL733,DSL733@courses.iitd.ac.in,gufranskhan,Gufran Sayeed Khan,0
+DSL734,DSL734@courses.iitd.ac.in,cshakher,Chandra Shakher,10
+DSL737,DSL737@courses.iitd.ac.in,satishdubey,Satish Kumar Dubey,4
+DSL782,DSL782@courses.iitd.ac.in,jyoti,Jyoti Kumar,26
+DSL811,DSL811@courses.iitd.ac.in,alvyas,A L Vyas,5
+DSP704,DSP704@courses.iitd.ac.in,shahani,D T Shahani,8
+DSP711,DSP711@courses.iitd.ac.in,atreya,S K Atreya,19
+DSP712,DSP712@courses.iitd.ac.in,atreya,S K Atreya,5
+DSP722,DSP722@courses.iitd.ac.in,jyoti,Jyoti Kumar,20
+DSR761,DSR761@courses.iitd.ac.in,jyoti,Jyoti Kumar,21
+DSR762,DSR762@courses.iitd.ac.in,sumerid,Sumer Singh,10
+DSR801,DSR801@courses.iitd.ac.in,atreya,S K Atreya,0
+DSR862,DSR862@courses.iitd.ac.in,jyoti,Jyoti Kumar,21
+DSV820,DSV820@courses.iitd.ac.in,jyoti,Jyoti Kumar,10
+DTD899,DTD899@courses.iitd.ac.in,pardeep,Pardeep Kumar Gupta,1821
+EED411,EED411@courses.iitd.ac.in,nsenroy,Nilanjan Senroy,0
+EED412,EED412@courses.iitd.ac.in,nsenroy,Nilanjan Senroy,1
+EED421,EED421@courses.iitd.ac.in,nsenroy,Nilanjan Senroy,0
+EED422,EED422@courses.iitd.ac.in,nsenroy,Nilanjan Senroy,0
+EED802,EED802@courses.iitd.ac.in,sumantra,Sumantra Dutta Roy,3
+EED843,EED843@courses.iitd.ac.in,bhuvan,G Bhuvaneswari,12
+EED851,EED851@courses.iitd.ac.in,seshan,Seshan Srirangarajan,0
+EED852,EED852@courses.iitd.ac.in,seshan,Seshan Srirangarajan,17
+EED853,EED853@courses.iitd.ac.in,seshan,Seshan Srirangarajan,0
+EED854,EED854@courses.iitd.ac.in,seshan,Seshan Srirangarajan,9
+EED862,EED862@courses.iitd.ac.in,seshan,Seshan Srirangarajan,2
+EED889,EED889@courses.iitd.ac.in,msarkar,Mukul Sarkar,10
+EED895,EED895@courses.iitd.ac.in,abhyankar,Abhijit Ramchandra Abhyankar,16
+EED898,EED898@courses.iitd.ac.in,bkpanigrahi,Bijaya Ketan Panigrahi,5
+EEL316,EEL316@courses.iitd.ac.in,rkmallik,Ranjan Kumar Mallik,3
+EEL718,EEL718@courses.iitd.ac.in,shankar.prakriya,Shankar Prakriya,0
+EEL768,EEL768@courses.iitd.ac.in,sprasad,Surindra Prasad,7
+EEL861,EEL861@courses.iitd.ac.in,rbose,Ranjan Bose,17
+ELD411,ELD411@courses.iitd.ac.in,nsenroy,Nilanjan Senroy,2
+ELD431,ELD431@courses.iitd.ac.in,nsenroy,Nilanjan Senroy,1
+ELD450,ELD450@courses.iitd.ac.in,nsenroy,Nilanjan Senroy,2
+ELD451,ELD451@courses.iitd.ac.in,nsenroy,Nilanjan Senroy,0
+ELD452,ELD452@courses.iitd.ac.in,nsenroy,Nilanjan Senroy,1
+ELD453,ELD453@courses.iitd.ac.in,nsenroy,Nilanjan Senroy,1
+ELD454,ELD454@courses.iitd.ac.in,nsenroy,Nilanjan Senroy,0
+ELD455,ELD455@courses.iitd.ac.in,nsenroy,Nilanjan Senroy,5
+ELD456,ELD456@courses.iitd.ac.in,nsenroy,Nilanjan Senroy,3
+ELD457,ELD457@courses.iitd.ac.in,nsenroy,Nilanjan Senroy,9
+ELD458,ELD458@courses.iitd.ac.in,nsenroy,Nilanjan Senroy,3
+ELD459,ELD459@courses.iitd.ac.in,nsenroy,Nilanjan Senroy,2
+ELD780,ELD780@courses.iitd.ac.in,sumantra,Sumantra Dutta Roy,20
+ELD800,ELD800@courses.iitd.ac.in,ink,Indra Narayan Kar,1
+ELD801,ELD801@courses.iitd.ac.in,mnabi,Mashuq-Un-Nabi,2
+ELD802,ELD802@courses.iitd.ac.in,mnabi,Mashuq-Un-Nabi,7
+ELD810,ELD810@courses.iitd.ac.in,seshan,Seshan Srirangarajan,1
+ELD812,ELD812@courses.iitd.ac.in,seshan,Seshan Srirangarajan,11
+ELD880,ELD880@courses.iitd.ac.in,sumantra,Sumantra Dutta Roy,2
+ELD881,ELD881@courses.iitd.ac.in,sumantra,Sumantra Dutta Roy,20
+ELL100,ELL100@courses.iitd.ac.in,amitjain,Amit Kumar Jain,446
+ELL201,ELL201@courses.iitd.ac.in,manansuri,Manan Suri,265
+ELL205,ELL205@courses.iitd.ac.in,sdjoshi,S D Joshi,120
+ELL212,ELL212@courses.iitd.ac.in,kkshah,Kushal Kumar Shah,87
+ELL225,ELL225@courses.iitd.ac.in,sbhasin,Shubhendu Bhasin,139
+ELL231,ELL231@courses.iitd.ac.in,bmitra,Bhaskar Mitra,48
+ELL301,ELL301@courses.iitd.ac.in,janas,S Janardhanan,51
+ELL303,ELL303@courses.iitd.ac.in,sukumar,Sukumar Mishra,139
+ELL316,ELL316@courses.iitd.ac.in,bhaumik,Basabi Bhaumik,21
+ELL332,ELL332@courses.iitd.ac.in,bhuvan,G Bhuvaneswari,68
+ELL365,ELL365@courses.iitd.ac.in,rahman,S M K Rahman,151
+ELL400,ELL400@courses.iitd.ac.in,bkpanigrahi,Bijaya Ketan Panigrahi,19
+ELL402,ELL402@courses.iitd.ac.in,swadesd,Swades Kumar De,33
+ELL409,ELL409@courses.iitd.ac.in,jayadeva,Jayadeva,60
+ELL411,ELL411@courses.iitd.ac.in,rkmallik,Ranjan Kumar Mallik,22
+ELL703,ELL703@courses.iitd.ac.in,rkpb,Rkp Bhatt,18
+ELL705,ELL705@courses.iitd.ac.in,shaunak,Shaunak Sen,16
+ELL711,ELL711@courses.iitd.ac.in,sprasad,Surindra Prasad,1
+ELL715,ELL715@courses.iitd.ac.in,maggarwal,Monika Aggarwal,54
+ELL716,ELL716@courses.iitd.ac.in,subrat,Subrat Kar,23
+ELL717,ELL717@courses.iitd.ac.in,dchadha,Devi Chadha,32
+ELL718,ELL718@courses.iitd.ac.in,shankar.prakriya,Shankar Prakriya,4
+ELL719,ELL719@courses.iitd.ac.in,sprasad,Surindra Prasad,36
+ELL720,ELL720@courses.iitd.ac.in,seshan,Seshan Srirangarajan,23
+ELL723,ELL723@courses.iitd.ac.in,vchandra,Vinod Chandra,65
+ELL726,ELL726@courses.iitd.ac.in,adhawan,Anuj Dhawan,8
+ELL730,ELL730@courses.iitd.ac.in,mamidala,M Jagadesh Kumar,19
+ELL731,ELL731@courses.iitd.ac.in,shouri,Shouribrata Chatterjee,33
+ELL739,ELL739@courses.iitd.ac.in,msingh,Madhusudan Singh,3
+ELL747,ELL747@courses.iitd.ac.in,msarkar,Mukul Sarkar,11
+ELL749,ELL749@courses.iitd.ac.in,msarkar,Mukul Sarkar,10
+ELL752,ELL752@courses.iitd.ac.in,bsingh,Bhim Singh,24
+ELL769,ELL769@courses.iitd.ac.in,bpsingh,B P Singh,23
+ELL774,ELL774@courses.iitd.ac.in,kothariml,Mohan Lal Kothari,33
+ELL776,ELL776@courses.iitd.ac.in,prbijwe,P R Bijwe,13
+ELL778,ELL778@courses.iitd.ac.in,nsenroy,Nilanjan Senroy,10
+ELL783,ELL783@courses.iitd.ac.in,sumantra,Sumantra Dutta Roy,24
+ELL784,ELL784@courses.iitd.ac.in,sumantra,Sumantra Dutta Roy,50
+ELL786,ELL786@courses.iitd.ac.in,brejesh,Brejesh Lall,61
+ELL800,ELL800@courses.iitd.ac.in,deepakpatil,Deepak Umakant Patil,22
+ELL802,ELL802@courses.iitd.ac.in,ink,Indra Narayan Kar,22
+ELL813,ELL813@courses.iitd.ac.in,saifkm,Saif Khan Mohammed,4
+ELL814,ELL814@courses.iitd.ac.in,vkjain,V K Jain,10
+ELL815,ELL815@courses.iitd.ac.in,manav,Manav Bhatnagar,26
+ELL817,ELL817@courses.iitd.ac.in,abhishek.dixit,Abhishek Dixit,29
+ELL821,ELL821@courses.iitd.ac.in,rbose,Ranjan Bose,5
+ELL850,ELL850@courses.iitd.ac.in,mvchary,Mummadi Veerachary,17
+ELL855,ELL855@courses.iitd.ac.in,anandarup,Anandarup Das,12
+ELL870,ELL870@courses.iitd.ac.in,abhyankar,Abhijit Ramchandra Abhyankar,8
+ELL880,ELL880@courses.iitd.ac.in,tgandhi,Tapan Kumar Gandhi,19
+ELL894,ELL894@courses.iitd.ac.in,jbseo,Jun Bae Seo,8
+ELP201,ELP201@courses.iitd.ac.in,manansuri,Manan Suri,0
+ELP203,ELP203@courses.iitd.ac.in,rkmahesh,Ramkrishan Maheshwari,130
+ELP302,ELP302@courses.iitd.ac.in,mvchary,Mummadi Veerachary,120
+ELP305,ELP305@courses.iitd.ac.in,subrat,Subrat Kar,185
+ELP311,ELP311@courses.iitd.ac.in,manav,Manav Bhatnagar,83
+ELP720,ELP720@courses.iitd.ac.in,subrat,Subrat Kar,20
+ELP721,ELP721@courses.iitd.ac.in,subrat,Subrat Kar,1
+ELP725,ELP725@courses.iitd.ac.in,rbose,Ranjan Bose,41
+ELP736,ELP736@courses.iitd.ac.in,jayadeva,Jayadeva,8
+ELP801,ELP801@courses.iitd.ac.in,rkpb,Rkp Bhatt,12
+ELP832,ELP832@courses.iitd.ac.in,shouri,Shouribrata Chatterjee,8
+ELP852,ELP852@courses.iitd.ac.in,bsingh,Bhim Singh,8
+ELP853,ELP853@courses.iitd.ac.in,mvchary,Mummadi Veerachary,8
+ELP871,ELP871@courses.iitd.ac.in,nsenroy,Nilanjan Senroy,12
+ELQ301,ELQ301@courses.iitd.ac.in,janas,S Janardhanan,59
+ELS310,ELS310@courses.iitd.ac.in,adhawan,Anuj Dhawan,20
+ELS330,ELS330@courses.iitd.ac.in,adhawan,Anuj Dhawan,5
+ELV720,ELV720@courses.iitd.ac.in,hmgupta,H M Gupta,6
+ELV780,ELV780@courses.iitd.ac.in,sumantra,Sumantra Dutta Roy,16
+ELV781,ELV781@courses.iitd.ac.in,sumeet,Sumeet Agarwal,4
+EPD411,EPD411@courses.iitd.ac.in,amartya,Amartya Sengupta,4
+EPL202,EPL202@courses.iitd.ac.in,vravi,V Ravishankar,2
+EPL204,EPL204@courses.iitd.ac.in,akshukla,A K Shukla,3
+EPL332,EPL332@courses.iitd.ac.in,hkmalik,Hitendra Kumar Malik,2
+EPL335,EPL335@courses.iitd.ac.in,jpsingh,Jitendra Pratap Singh,7
+EPS310,EPS310@courses.iitd.ac.in,santanu1,Santanu Ghosh,7
+ESL300,ESL300@courses.iitd.ac.in,rpsharma,R P Sharma,24
+ESL330,ESL330@courses.iitd.ac.in,rams,Ramesh Narayanan,83
+ESL340,ESL340@courses.iitd.ac.in,dibakar,Dibakar Rakshit,53
+ESL350,ESL350@courses.iitd.ac.in,kaushik,S C Kaushik,63
+ESL360,ESL360@courses.iitd.ac.in,dpsahu,Debaprasad Sahu,13
+ESL710,ESL710@courses.iitd.ac.in,chz168286,Ali Shoeb Moon,25
+ESL714,ESL714@courses.iitd.ac.in,subra,K A Subramanian,15
+ESL718,ESL718@courses.iitd.ac.in,tsb,T S Bhatti,25
+ESL720,ESL720@courses.iitd.ac.in,dibakar,Dibakar Rakshit,24
+ESL730,ESL730@courses.iitd.ac.in,ruma,Mrs R Uma,21
+ESL732,ESL732@courses.iitd.ac.in,sharmadk,D K Sharma,8
+ESL734,ESL734@courses.iitd.ac.in,rams,Ramesh Narayanan,15
+ESL737,ESL737@courses.iitd.ac.in,aganguli,A Ganguli,0
+ESL746,ESL746@courses.iitd.ac.in,lmdas,L M Das,1
+ESL755,ESL755@courses.iitd.ac.in,spathak,Sandeep Kumar Pathak,44
+ESL871,ESL871@courses.iitd.ac.in,rpsharma,R P Sharma,6
+ESL880,ESL880@courses.iitd.ac.in,tarak,T C Kandpal,9
+ESP713,ESP713@courses.iitd.ac.in,dibakar,Dibakar Rakshit,21
+ESQ302,ESQ302@courses.iitd.ac.in,kaushik,S C Kaushik,81
+ESQ303,ESQ303@courses.iitd.ac.in,averma,Ashu Verma,11
+ESQ304,ESQ304@courses.iitd.ac.in,rams,Ramesh Narayanan,9
+ESQ305,ESQ305@courses.iitd.ac.in,sharmadk,D K Sharma,71
+ESQ306,ESQ306@courses.iitd.ac.in,bb1140030,Ayushi Agrawal,21
+HUC722,HUC722@courses.iitd.ac.in,reetika,Reetika Khera,32
+HUL211A,HUL211A@courses.iitd.ac.in,ankush,Ankush Agrawal,88
+HUL211B,HUL211B@courses.iitd.ac.in,reetika,Reetika Khera,85
+HUL212,HUL212@courses.iitd.ac.in,debasis,Debasis Mondal,86
+HUL231,HUL231@courses.iitd.ac.in,divyadwi,Divya Dwivedi,61
+HUL234,HUL234@courses.iitd.ac.in,rbnair,Rukmini Bhaya Nair,89
+HUL236,HUL236@courses.iitd.ac.in,arjunghosh,Arjun Ghosh,129
+HUL242A,HUL242A@courses.iitd.ac.in,psanyal,Paroma Sanyal,81
+HUL242B,HUL242B@courses.iitd.ac.in,samar,Samar Husain,89
+HUL253,HUL253@courses.iitd.ac.in,milindw,Milind Wakankar,109
+HUL256,HUL256@courses.iitd.ac.in,boruah,Bijoy H Boruah,83
+HUL258,HUL258@courses.iitd.ac.in,sanil,Sanil V ,85
+HUL261,HUL261@courses.iitd.ac.in,vsingh,Varsha Singh,83
+HUL265,HUL265@courses.iitd.ac.in,singhk,Kamlesh Singh,85
+HUL271,HUL271@courses.iitd.ac.in,sarbeswar,Sarbeswar Sahoo,91
+HUL272,HUL272@courses.iitd.ac.in,aurora,Vibha Arora,86
+HUL275,HUL275@courses.iitd.ac.in,upasna,Upasna Sharma,90
+HUL307,HUL307@courses.iitd.ac.in,angelie,Angelie Multani,34
+HUL315,HUL315@courses.iitd.ac.in,sbpaul,Sourabh Bikas Paul,38
+HUL320A,HUL320A@courses.iitd.ac.in,upadhyay,V Upadhyay,37
+HUL320B,HUL320B@courses.iitd.ac.in,saptarshi,Saptarshi Mukherjee,32
+HUL335,HUL335@courses.iitd.ac.in,ssawhney,Simona Sawhney,32
+HUL350,HUL350@courses.iitd.ac.in,pritha,Pritha Chandra,35
+HUL356,HUL356@courses.iitd.ac.in,bpuri,Bharati Puri,35
+HUL360,HUL360@courses.iitd.ac.in,burra,Arudra Venkata Burra,22
+HUL362,HUL362@courses.iitd.ac.in,psingh,Purnima Singh,41
+HUL364,HUL364@courses.iitd.ac.in,yaj,Yashpal Ashokrao Jogdand,13
+HUL371,HUL371@courses.iitd.ac.in,asagar,Ambuj D Sagar,29
+HUL372,HUL372@courses.iitd.ac.in,richa,Richa Kumar,32
+HUL375,HUL375@courses.iitd.ac.in,fibrahim,Farhana Ibrahim,34
+HUL380,HUL380@courses.iitd.ac.in,rkaur,Ravinder Kaur,36
+HUL381,HUL381@courses.iitd.ac.in,raja,Rajakrishnan Rajkumar,35
+HUL701,HUL701@courses.iitd.ac.in,sarbeswar,Sarbeswar Sahoo,9
+HUL703,HUL703@courses.iitd.ac.in,richa,Richa Kumar,6
+HUL707,HUL707@courses.iitd.ac.in,psingh,Purnima Singh,19
+HUL735,HUL735@courses.iitd.ac.in,reetika,Reetika Khera,8
+HUL736,HUL736@courses.iitd.ac.in,ankush,Ankush Agrawal,25
+HUL737,HUL737@courses.iitd.ac.in,debasis,Debasis Mondal,6
+HUL754,HUL754@courses.iitd.ac.in,nthayyil,Naveen Thayyil Kamaluddin,8
+HUL756,HUL756@courses.iitd.ac.in,sbpaul,Sourabh Bikas Paul,8
+HUL810,HUL810@courses.iitd.ac.in,milindw,Milind Wakankar,218
+HUL823,HUL823@courses.iitd.ac.in,ssawhney,Simona Sawhney,6
+HUL840,HUL840@courses.iitd.ac.in,boruah,Bijoy H Boruah,7
+HUL841,HUL841@courses.iitd.ac.in,burra,Arudra Venkata Burra,16
+HUL843,HUL843@courses.iitd.ac.in,raja,Rajakrishnan Rajkumar,10
+HUL881,HUL881@courses.iitd.ac.in,divyadwi,Divya Dwivedi,13
+HUN100,HUN100@courses.iitd.ac.in,psanyal,Paroma Sanyal,1
+HUV750,HUV750@courses.iitd.ac.in,pritha,Pritha Chandra,27
+HUV751,HUV751@courses.iitd.ac.in,samar,Samar Husain,8
+HUV886,HUV886@courses.iitd.ac.in,vsingh,Varsha Singh,12
+ITL702,ITL702@courses.iitd.ac.in,ntandon,Naresh Tandon,13
+ITL709,ITL709@courses.iitd.ac.in,fatima,Shahab Fatima,13
+ITL711,ITL711@courses.iitd.ac.in,opgandhi,O P Gandhi,13
+ITL714,ITL714@courses.iitd.ac.in,dkumar,Deepak Kumar,12
+ITL730,ITL730@courses.iitd.ac.in,jbijwe,Jayashree Bijwe,0
+JID802,JID802@courses.iitd.ac.in,dkumar,Deepak Kumar,11
+JND801,JND801@courses.iitd.ac.in,subra,K A Subramanian,3
+JND802,JND802@courses.iitd.ac.in,subra,K A Subramanian,15
+JOD802,JOD802@courses.iitd.ac.in,ravi,R K Varshney,12
+JOP792,JOP792@courses.iitd.ac.in,mrshenoy,M R Shenoy,26
+JOS795,JOS795@courses.iitd.ac.in,kkshah,Kushal Kumar Shah,1
+JPD802,JPD802@courses.iitd.ac.in,jacob,Josemon Jacob,17
+JRD301,JRD301@courses.iitd.ac.in,saha,Subir Kumar Saha,10
+JRD310,JRD310@courses.iitd.ac.in,santanuc,Santanu Chaudhury,0
+JSD801,JSD801@courses.iitd.ac.in,subra,K A Subramanian,0
+JSD802,JSD802@courses.iitd.ac.in,subra,K A Subramanian,12
+JTD792,JTD792@courses.iitd.ac.in,saifkm,Saif Khan Mohammed,21
+JTD802,JTD802@courses.iitd.ac.in,adhawan,Anuj Dhawan,10
+JVD809,JVD809@courses.iitd.ac.in,anshul,Anshul Kumar,0
+JVD811,JVD811@courses.iitd.ac.in,jayadeva,Jayadeva,4
+JVD812,JVD812@courses.iitd.ac.in,jayadeva,Jayadeva,5
+JVS802,JVS802@courses.iitd.ac.in,anshul,Anshul Kumar,1
+MAD851,MAD851@courses.iitd.ac.in,shravankumar,N Shravan Kumar,2
+MAD852,MAD852@courses.iitd.ac.in,shravankumar,N Shravan Kumar,9
+MAD853,MAD853@courses.iitd.ac.in,shravankumar,N Shravan Kumar,2
+MAD854,MAD854@courses.iitd.ac.in,shravankumar,N Shravan Kumar,29
+MAL145,MAL145@courses.iitd.ac.in,atripath,A Tripathi,1
+MAL245,MAL245@courses.iitd.ac.in,viswa,Viswanathan Puthan Veedu,24
+MAL390,MAL390@courses.iitd.ac.in,dharmar,S Dharmaraja,6
+MAL466,MAL466@courses.iitd.ac.in,niladri,Niladri Chatterjee,34
+MAL630,MAL630@courses.iitd.ac.in,sreenadh,Konijeti Sreenadh,1
+MAL732,MAL732@courses.iitd.ac.in,apmehra,Aparna Mehra,30
+MAL737,MAL737@courses.iitd.ac.in,shravankumar,N Shravan Kumar,8
+MCD310,MCD310@courses.iitd.ac.in,sanjeevj,Sanjeev Jain,22
+MCD411,MCD411@courses.iitd.ac.in,pmvs,P M V Subbarao,16
+MCD412,MCD412@courses.iitd.ac.in,pmvs,P M V Subbarao,43
+MCD811,MCD811@courses.iitd.ac.in,subhra.datta,Subhra Datta,1
+MCD812,MCD812@courses.iitd.ac.in,subhra.datta,Subhra Datta,15
+MCD831,MCD831@courses.iitd.ac.in,rajpandey,RK Pandey,1
+MCD832,MCD832@courses.iitd.ac.in,rajpandey,RK Pandey,12
+MCD862,MCD862@courses.iitd.ac.in,nomesh,Nomesh Bhojkumar Bolia,6
+MCD882,MCD882@courses.iitd.ac.in,suniljha,Sunil Jha,13
+MCD895,MCD895@courses.iitd.ac.in,agupta,Amit Gupta,5
+MCL131,MCL131@courses.iitd.ac.in,aravindan,Sivanandam Aravindan,77
+MCL132,MCL132@courses.iitd.ac.in,dravi,Digavalli Ravi Kumar,64
+MCL133,MCL133@courses.iitd.ac.in,nareshb,Naresh Bhatnagar,57
+MCL136,MCL136@courses.iitd.ac.in,ghoshs,Sudarsan Ghosh,60
+MCL142,MCL142@courses.iitd.ac.in,subhra.datta,Subhra Datta,121
+MCL201,MCL201@courses.iitd.ac.in,jkdutt,Jayanta Kumar Dutt,141
+MCL212,MCL212@courses.iitd.ac.in,jkdutt,Jayanta Kumar Dutt,150
+MCL241,MCL241@courses.iitd.ac.in,agupta,Amit Gupta,89
+MCL311,MCL311@courses.iitd.ac.in,dkdubey,Devendra Kumar Dubey,140
+MCL321,MCL321@courses.iitd.ac.in,singhsp,Satinder Paul Singh,55
+MCL331,MCL331@courses.iitd.ac.in,aravindan,Sivanandam Aravindan,66
+MCL343,MCL343@courses.iitd.ac.in,kmayank,Mayank Kumar,40
+MCL345,MCL345@courses.iitd.ac.in,ravimr,M R Ravi,40
+MCL347,MCL347@courses.iitd.ac.in,prem,B Premachandran,24
+MCL361,MCL361@courses.iitd.ac.in,nomesh,Nomesh Bhojkumar Bolia,128
+MCL421,MCL421@courses.iitd.ac.in,achawla,Anoop Chawla,5
+MCL705,MCL705@courses.iitd.ac.in,skohli,Sangeeta Kohli,44
+MCL730,MCL730@courses.iitd.ac.in,datla,Naresh Varma Datla,15
+MCL733,MCL733@courses.iitd.ac.in,akdarpe,Ashish Kamalakar Darpe,20
+MCL736,MCL736@courses.iitd.ac.in,achawla,Anoop Chawla,14
+MCL738,MCL738@courses.iitd.ac.in,saha,Subir Kumar Saha,11
+MCL741,MCL741@courses.iitd.ac.in,svmodak,Subodh Vasant Modak,15
+MCL743,MCL743@courses.iitd.ac.in,kgupta,Kshitij Gupta,45
+MCL745,MCL745@courses.iitd.ac.in,sudipto,Sudipto Mukherjee,14
+MCL747,MCL747@courses.iitd.ac.in,jpkhatait,Jitendra Prasad Khatait,64
+MCL748,MCL748@courses.iitd.ac.in,rajpandey,RK Pandey,9
+MCL754,MCL754@courses.iitd.ac.in,nomesh,Nomesh Bhojkumar Bolia,10
+MCL756,MCL756@courses.iitd.ac.in,dravi,Digavalli Ravi Kumar,41
+MCL771,MCL771@courses.iitd.ac.in,gupta,Anand Dev Gupta,28
+MCL778,MCL778@courses.iitd.ac.in,spandey,Sunil Pandey,10
+MCL782,MCL782@courses.iitd.ac.in,pmpandey,Pulak Mohan Pandey,31
+MCL784,MCL784@courses.iitd.ac.in,suniljha,Sunil Jha,31
+MCL786,MCL786@courses.iitd.ac.in,ghoshs,Sudarsan Ghosh,30
+MCL814,MCL814@courses.iitd.ac.in,raya,Anjan Ray,20
+MCL823,MCL823@courses.iitd.ac.in,prabal,Prabal Talukdar,22
+MCL825,MCL825@courses.iitd.ac.in,pmvs,P M V Subbarao,30
+MCL826,MCL826@courses.iitd.ac.in,bahga,Supreet Singh Bahga,11
+MCL865,MCL865@courses.iitd.ac.in,kseth,Kiran Seth,15
+MCN101,MCN101@courses.iitd.ac.in,raya,Anjan Ray,0
+MCP100,MCP100@courses.iitd.ac.in,sks,Sujeet Kumar Sinha,446
+MCP101,MCP101@courses.iitd.ac.in,pvmrao,P V Madhusudhan Rao,440
+MCP261,MCP261@courses.iitd.ac.in,gupta,Anand Dev Gupta,58
+MCP301,MCP301@courses.iitd.ac.in,srk,S R Kale,75
+MCP331,MCP331@courses.iitd.ac.in,ghoshs,Sudarsan Ghosh,82
+MCP332,MCP332@courses.iitd.ac.in,spandey,Sunil Pandey,59
+MCQ301,MCQ301@courses.iitd.ac.in,datla,Naresh Varma Datla,26
+MCQ302,MCQ302@courses.iitd.ac.in,bahga,Supreet Singh Bahga,26
+MCQ303,MCQ303@courses.iitd.ac.in,nareshb,Naresh Bhatnagar,25
+MCV390,MCV390@courses.iitd.ac.in,singhsp,Satinder Paul Singh,82
+MCV849,MCV849@courses.iitd.ac.in,achawla,Anoop Chawla,2
+MEC410,MEC410@courses.iitd.ac.in,nareshb,Naresh Bhatnagar,2
+MED422,MED422@courses.iitd.ac.in,pmvs,P M V Subbarao,1
+MED895,MED895@courses.iitd.ac.in,raya,Anjan Ray,0
+MEP311,MEP311@courses.iitd.ac.in,raya,Anjan Ray,8
+MEP341,MEP341@courses.iitd.ac.in,srk,S R Kale,6
+MSD792,MSD792@courses.iitd.ac.in,amlendu,Amlendu Kumar Dubey,31
+MSD890,MSD890@courses.iitd.ac.in,amlendu,Amlendu Kumar Dubey,37
+MSD891,MSD891@courses.iitd.ac.in,amlendu,Amlendu Kumar Dubey,10
+MSD892,MSD892@courses.iitd.ac.in,amlendu,Amlendu Kumar Dubey,24
+MSL301,MSL301@courses.iitd.ac.in,shuchi,Shuchi Sinha,69
+MSL303,MSL303@courses.iitd.ac.in,mahim,Mahim Sagar,92
+MSL703,MSL703@courses.iitd.ac.in,sanjaydhir,Sanjay Dhir,37
+MSL705,MSL705@courses.iitd.ac.in,kanika,Kanika Tandon Bhal,92
+MSL708A,MSL708A@courses.iitd.ac.in,pkjain,P K Jain,94
+MSL708B,MSL708B@courses.iitd.ac.in,shvetasingh,Shveta Singh,55
+MSL711,MSL711@courses.iitd.ac.in,sanjaydhir,Sanjay Dhir,103
+MSL713,MSL713@courses.iitd.ac.in,mpgupta,Manmohan Prasad Gupta,58
+MSL720A,MSL720A@courses.iitd.ac.in,amlendu,Amlendu Kumar Dubey,23
+MSL720B,MSL720B@courses.iitd.ac.in,seemash,Seema Sharma,94
+MSL721,MSL721@courses.iitd.ac.in,amlendu,Amlendu Kumar Dubey,72
+MSL723,MSL723@courses.iitd.ac.in,mahim,Mahim Sagar,46
+MSL724,MSL724@courses.iitd.ac.in,shuchi,Shuchi Sinha,53
+MSL728,MSL728@courses.iitd.ac.in,ravi1,Ravi Shankar,30
+MSL729A,MSL729A@courses.iitd.ac.in,kanika,Kanika Tandon Bhal,92
+MSL729B,MSL729B@courses.iitd.ac.in,kanika,Kanika Tandon Bhal,53
+MSL733,MSL733@courses.iitd.ac.in,shuchi,Shuchi Sinha,34
+MSL740,MSL740@courses.iitd.ac.in,sprsingh,Surya Prakash Singh,56
+MSL745,MSL745@courses.iitd.ac.in,jmadaan,Dr Jitendra Madaan,96
+MSL780A,MSL780A@courses.iitd.ac.in,seemash,Seema Sharma,93
+MSL780B,MSL780B@courses.iitd.ac.in,skjain,Sudhir Kumar Jain,54
+MSL802,MSL802@courses.iitd.ac.in,skjain,Sudhir Kumar Jain,31
+MSL806,MSL806@courses.iitd.ac.in,smitak,Smita Kashiramka,5
+MSL821,MSL821@courses.iitd.ac.in,sushil,Sushil,17
+MSL838,MSL838@courses.iitd.ac.in,arpankar,Arpan Kumar Kar,53
+MSL840,MSL840@courses.iitd.ac.in,jmadaan,Dr Jitendra Madaan,32
+MSL841,MSL841@courses.iitd.ac.in,ravi1,Ravi Shankar,14
+MSL856,MSL856@courses.iitd.ac.in,mpgupta,Manmohan Prasad Gupta,50
+MSL860,MSL860@courses.iitd.ac.in,vignes,P Vigneswara Ilavarasan,28
+MSL865,MSL865@courses.iitd.ac.in,harishc,Harish Chaudhry,42
+MSL871,MSL871@courses.iitd.ac.in,smitak,Smita Kashiramka,18
+MSL873,MSL873@courses.iitd.ac.in,ssyadav,Surendra Singh Yadav,33
+MSL874,MSL874@courses.iitd.ac.in,smitak,Smita Kashiramka,20
+MSL875,MSL875@courses.iitd.ac.in,ssyadav,Surendra Singh Yadav,14
+MSL883,MSL883@courses.iitd.ac.in,vignes,P Vigneswara Ilavarasan,21
+MSL885,MSL885@courses.iitd.ac.in,arpankar,Arpan Kumar Kar,64
+MST894,MST894@courses.iitd.ac.in,vignes,P Vigneswara Ilavarasan,102
+MTD350,MTD350@courses.iitd.ac.in,viswa,Viswanathan Puthan Veedu,23
+MTD701,MTD701@courses.iitd.ac.in,rksharma,Rajendra Kumar Sharma,0
+MTD702,MTD702@courses.iitd.ac.in,rksharma,Rajendra Kumar Sharma,14
+MTL100A,MTL100A@courses.iitd.ac.in,rksharma,Rajendra Kumar Sharma,251
+MTL100B,MTL100B@courses.iitd.ac.in,rksharma,Rajendra Kumar Sharma,250
+MTL101A,MTL101A@courses.iitd.ac.in,priyadarshi,Amit Priyadarshi,231
+MTL101B,MTL101B@courses.iitd.ac.in,priyadarshi,Amit Priyadarshi,248
+MTL102,MTL102@courses.iitd.ac.in,sreenadh,Konijeti Sreenadh,159
+MTL103,MTL103@courses.iitd.ac.in,apmehra,Aparna Mehra,157
+MTL106,MTL106@courses.iitd.ac.in,niladri,Niladri Chatterjee,205
+MTL108,MTL108@courses.iitd.ac.in,dharmar,S Dharmaraja,171
+MTL122,MTL122@courses.iitd.ac.in,anima,Anima Nagar,82
+MTL145,MTL145@courses.iitd.ac.in,atripath,A Tripathi,49
+MTL390,MTL390@courses.iitd.ac.in,dharmar,S Dharmaraja,76
+MTL411,MTL411@courses.iitd.ac.in,viswa,Viswanathan Puthan Veedu,84
+MTL506,MTL506@courses.iitd.ac.in,atripath,A Tripathi,56
+MTL507,MTL507@courses.iitd.ac.in,shravankumar,N Shravan Kumar,65
+MTL508,MTL508@courses.iitd.ac.in,apmehra,Aparna Mehra,54
+MTL509,MTL509@courses.iitd.ac.in,hkumar,Harish Kumar,55
+MTL510,MTL510@courses.iitd.ac.in,siva,Sivananthan Sampath,51
+MTL603,MTL603@courses.iitd.ac.in,sreenadh,Konijeti Sreenadh,1
+MTL731,MTL731@courses.iitd.ac.in,anima,Anima Nagar,20
+MTL732,MTL732@courses.iitd.ac.in,apmehra,Aparna Mehra,76
+MTL735,MTL735@courses.iitd.ac.in,atripath,A Tripathi,19
+MTL737,MTL737@courses.iitd.ac.in,shravankumar,N Shravan Kumar,58
+MTL743,MTL743@courses.iitd.ac.in,siva,Sivananthan Sampath,11
+MTL766,MTL766@courses.iitd.ac.in,niladri,Niladri Chatterjee,45
+MTL776,MTL776@courses.iitd.ac.in,bspanda,Bhawani Sankar Panda,93
+MTL782,MTL782@courses.iitd.ac.in,bspanda,Bhawani Sankar Panda,68
+MTL792,MTL792@courses.iitd.ac.in,sreenadh,Konijeti Sreenadh,13
+MTL795,MTL795@courses.iitd.ac.in,hkumar,Harish Kumar,26
+MTL874,MTL874@courses.iitd.ac.in,viswa,Viswanathan Puthan Veedu,11
+MTP290,MTP290@courses.iitd.ac.in,hkumar,Harish Kumar,78
+MTQ306,MTQ306@courses.iitd.ac.in,shravankumar,N Shravan Kumar,27
+MTQ307,MTQ307@courses.iitd.ac.in,sreenadh,Konijeti Sreenadh,11
+MTQ308,MTQ308@courses.iitd.ac.in,hkumar,Harish Kumar,6
+NCN100,NCN100@courses.iitd.ac.in,brejesh,Brejesh Lall,0
+NEN100,NEN100@courses.iitd.ac.in,skohli,Sangeeta Kohli,0
+NEN101,NEN101@courses.iitd.ac.in,tarak,T C Kandpal,876
+NLN101,NLN101@courses.iitd.ac.in,psanyal,Paroma Sanyal,881
+NPN100,NPN100@courses.iitd.ac.in,bkundu,Bishwajit Kundu,3
+NSN100,NSN100@courses.iitd.ac.in,rajesh,Rajesh Prasad,0
+PHP712,PHP712@courses.iitd.ac.in,rsingh,Rajendra Singh,0
+PTL702,PTL702@courses.iitd.ac.in,akghosh,A K Ghosh,22
+PTL706,PTL706@courses.iitd.ac.in,bhabani,Bhabani Kumar Satapathy,22
+PTL709,PTL709@courses.iitd.ac.in,ssaha,Sampa Saha,23
+PTL716,PTL716@courses.iitd.ac.in,jacob,Josemon Jacob,21
+PTP720,PTP720@courses.iitd.ac.in,bhabani,Bhabani Kumar Satapathy,21
+PYD411,PYD411@courses.iitd.ac.in,amartya,Amartya Sengupta,4
+PYD412,PYD412@courses.iitd.ac.in,amartya,Amartya Sengupta,2
+PYD414,PYD414@courses.iitd.ac.in,amartya,Amartya Sengupta,9
+PYD561,PYD561@courses.iitd.ac.in,jpsingh,Jitendra Pratap Singh,0
+PYD562,PYD562@courses.iitd.ac.in,jpsingh,Jitendra Pratap Singh,45
+PYD802,PYD802@courses.iitd.ac.in,pintu,Pintu Das,14
+PYD852,PYD852@courses.iitd.ac.in,psenthil,P Senthilkumaran,6
+PYL100,PYL100@courses.iitd.ac.in,joyee,Joyee Ghosh,485
+PYL102,PYL102@courses.iitd.ac.in,amartya,Amartya Sengupta,163
+PYL112,PYL112@courses.iitd.ac.in,vravi,V Ravishankar,98
+PYL114,PYL114@courses.iitd.ac.in,sujeetc,Sujeet Chaudhary,80
+PYL116,PYL116@courses.iitd.ac.in,rsingh,Rajendra Singh,59
+PYL202,PYL202@courses.iitd.ac.in,akshukla,A K Shukla,56
+PYL204,PYL204@courses.iitd.ac.in,sujin,Sujin B Babu,74
+PYL302,PYL302@courses.iitd.ac.in,hkmalik,Hitendra Kumar Malik,37
+PYL321,PYL321@courses.iitd.ac.in,jpsingh,Jitendra Pratap Singh,28
+PYL423,PYL423@courses.iitd.ac.in,prakash,Gaddam Vijaya Prakash,52
+PYL552,PYL552@courses.iitd.ac.in,saswata,Saswata Bhattacharya,50
+PYL556,PYL556@courses.iitd.ac.in,bkmani,Brajesh Kumar Mani,52
+PYL558,PYL558@courses.iitd.ac.in,sankalpa,Sankalpa Ghosh,52
+PYL560,PYL560@courses.iitd.ac.in,kedark,Kedar Khare,57
+PYL563,PYL563@courses.iitd.ac.in,rnarula,Rohit Narula,52
+PYL650,PYL650@courses.iitd.ac.in,ravi,R K Varshney,17
+PYL704,PYL704@courses.iitd.ac.in,santanu1,Santanu Ghosh,47
+PYL705,PYL705@courses.iitd.ac.in,brmehta,Bodh Raj,37
+PYL707,PYL707@courses.iitd.ac.in,mukesh,Mukesh Chander,34
+PYL725,PYL725@courses.iitd.ac.in,pankajs,Pankaj Srivastava,23
+PYL726,PYL726@courses.iitd.ac.in,gbreddy,G B Reddy,15
+PYL727,PYL727@courses.iitd.ac.in,nkhare,Neeraj Khare,8
+PYL741,PYL741@courses.iitd.ac.in,amruta,Amruta Mishra,27
+PYL742,PYL742@courses.iitd.ac.in,ajitk,Ajit Kumar,22
+PYL746,PYL746@courses.iitd.ac.in,maratherahul,Rahul Suresh Marathe,14
+PYL747,PYL747@courses.iitd.ac.in,kumarsunil,Sunil Kumar,12
+PYL752,PYL752@courses.iitd.ac.in,psenthil,P Senthilkumaran,20
+PYL754,PYL754@courses.iitd.ac.in,joby,Joby Joseph,27
+PYL758,PYL758@courses.iitd.ac.in,bkanseri,Bhaskar Kanseri,11
+PYL760,PYL760@courses.iitd.ac.in,mehtads,Dalip Singh Mehta,30
+PYL770,PYL770@courses.iitd.ac.in,ravisoni,R K Soni,7
+PYL772,PYL772@courses.iitd.ac.in,bdgupta,B D Gupta,8
+PYL780,PYL780@courses.iitd.ac.in,gufranskhan,Gufran Sayeed Khan,7
+PYL792,PYL792@courses.iitd.ac.in,ktrajan,K Thyagarajan,39
+PYL800,PYL800@courses.iitd.ac.in,asharma,Anurag Sharma,33
+PYL892,PYL892@courses.iitd.ac.in,akumar,Arun Kumar,6
+PYP100A,PYP100A@courses.iitd.ac.in,kedark,Kedar Khare,225
+PYP100B,PYP100B@courses.iitd.ac.in,akshukla,A K Shukla,220
+PYP212,PYP212@courses.iitd.ac.in,gbreddy,G B Reddy,59
+PYP222,PYP222@courses.iitd.ac.in,ravisoni,R K Soni,52
+PYP562,PYP562@courses.iitd.ac.in,psenthil,P Senthilkumaran,47
+PYP702,PYP702@courses.iitd.ac.in,rsingh,Rajendra Singh,14
+PYP762,PYP762@courses.iitd.ac.in,joby,Joby Joseph,19
+PYP764,PYP764@courses.iitd.ac.in,gufranskhan,Gufran Sayeed Khan,0
+PYQ301,PYQ301@courses.iitd.ac.in,nkhare,Neeraj Khare,30
+PYQ303,PYQ303@courses.iitd.ac.in,varsha,Varsha Banerjee,29
+PYS300,PYS300@courses.iitd.ac.in,santanu1,Santanu Ghosh,18
+RDD750,RDD750@courses.iitd.ac.in,phari,Hariprasad P ,6
+RDL700,RDL700@courses.iitd.ac.in,ssharma,Satyawati Sharma,57
+RDL701,RDL701@courses.iitd.ac.in,rprasad,Rajendra Prasad,77
+RDL722,RDL722@courses.iitd.ac.in,vkvijay,Virendra Kumar Vijay,123
+RDL726,RDL726@courses.iitd.ac.in,snn,S N Naik,21
+RDL730,RDL730@courses.iitd.ac.in,chariarv,Vijayaraghavan M Chariar,68
+RDL740,RDL740@courses.iitd.ac.in,anushree,Anushree Malik,60
+RDL760,RDL760@courses.iitd.ac.in,ssatya,Santosh,76
+RDP750,RDP750@courses.iitd.ac.in,ssharma,Satyawati Sharma,17
+RDQ301,RDQ301@courses.iitd.ac.in,phari,Hariprasad P ,30
+RDQ302,RDQ302@courses.iitd.ac.in,snn,S N Naik,32
+RDQ303,RDQ303@courses.iitd.ac.in,jksahu,Jatindra Kumar Sahu,30
+RDQ304,RDQ304@courses.iitd.ac.in,ssharma,Satyawati Sharma,29
+SBC796,SBC796@courses.iitd.ac.in,ashokpatel,Ashok Kumar Patel,19
+SBD301,SBD301@courses.iitd.ac.in,mbanerjee,Manidipa Banerjee,7
+SBD895,SBD895@courses.iitd.ac.in,mbanerjee,Manidipa Banerjee,2
+SBL100,SBL100@courses.iitd.ac.in,jgomes,James Gomes,364
+SBL201,SBL201@courses.iitd.ac.in,ashokpatel,Ashok Kumar Patel,29
+SBL701,SBL701@courses.iitd.ac.in,amittal,Aditya Mittal,25
+SBL703,SBL703@courses.iitd.ac.in,bkundu,Bishwajit Kundu,7
+SBL704,SBL704@courses.iitd.ac.in,vperumal,Vivekanandan Perumal,36
+SBL705,SBL705@courses.iitd.ac.in,tkchaudhuri,Tapan Kumar Chaudhuri,19
+SBS800,SBS800@courses.iitd.ac.in,mbanerjee,Manidipa Banerjee,1
+SBV750,SBV750@courses.iitd.ac.in,achugh,Archana Chugh,10
+SBV885,SBV885@courses.iitd.ac.in,bkundu,Bishwajit Kundu,8
+SID880,SID880@courses.iitd.ac.in,mbala,M Balakrishnan,1
+SID890,SID890@courses.iitd.ac.in,mbala,M Balakrishnan,4
+SIL765,SIL765@courses.iitd.ac.in,bnj,B N Jain,62
+SIL802,SIL802@courses.iitd.ac.in,aseth,Aaditeshwar Seth,24
+SIV895,SIV895@courses.iitd.ac.in,pkalra,Prem Kumar Kalra,10
+SML870,SML870@courses.iitd.ac.in,shvetasingh,Shveta Singh,13
+SMV896,SMV896@courses.iitd.ac.in,shuchi,Shuchi Sinha,24
+TTP716,TTP716@courses.iitd.ac.in,ashwini,Ashwini K Agrawal,15
+TXD401,TXD401@courses.iitd.ac.in,nandan,Bhanu Nandan,10
+TXD402,TXD402@courses.iitd.ac.in,nandan,Bhanu Nandan,20
+TXD803,TXD803@courses.iitd.ac.in,rsr,R S Rengasamy,18
+TXD804,TXD804@courses.iitd.ac.in,manjeet,Manjeet Jassal,16
+TXL211,TXL211@courses.iitd.ac.in,rajiv,Rajiv K Srivastava,106
+TXL221,TXL221@courses.iitd.ac.in,dipayan,Dipayan Das,107
+TXL231,TXL231@courses.iitd.ac.in,majumdar,Abhijit Mujumdar,99
+TXL241,TXL241@courses.iitd.ac.in,kushal,Kushal Sen,121
+TXL361,TXL361@courses.iitd.ac.in,bsbutola,Bhupendra Singh Butola,112
+TXL371,TXL371@courses.iitd.ac.in,ishtiaque,S M Ishtiaque,119
+TXL372,TXL372@courses.iitd.ac.in,behera,B K Behera,116
+TXL714,TXL714@courses.iitd.ac.in,ashwini,Ashwini K Agrawal,20
+TXL715,TXL715@courses.iitd.ac.in,manjeet,Manjeet Jassal,14
+TXL725,TXL725@courses.iitd.ac.in,rsr,R S Rengasamy,23
+TXL740,TXL740@courses.iitd.ac.in,mangala,Mangala Joshi,76
+TXL742,TXL742@courses.iitd.ac.in,deepti,Deepti Gupta,17
+TXL743,TXL743@courses.iitd.ac.in,samrat,Samrat Mukhopadhyay,37
+TXL766,TXL766@courses.iitd.ac.in,behera,B K Behera,18
+TXL771,TXL771@courses.iitd.ac.in,ankurgupta,Ankur Gupta,22
+TXL773,TXL773@courses.iitd.ac.in,sghosh08,Sourabh Ghosh,59
+TXL775,TXL775@courses.iitd.ac.in,apurba,Apurba Das,54
+TXL777,TXL777@courses.iitd.ac.in,rchat,R Chattopadhyay,46
+TXL782,TXL782@courses.iitd.ac.in,ishtiaque,S M Ishtiaque,58
+TXL783,TXL783@courses.iitd.ac.in,rchat,R Chattopadhyay,55
+TXP212,TXP212@courses.iitd.ac.in,nandan,Bhanu Nandan,89
+TXP221,TXP221@courses.iitd.ac.in,rasamy,R Alagirusamy,96
+TXP231,TXP231@courses.iitd.ac.in,arawal,Amit Rawal,98
+TXP241,TXP241@courses.iitd.ac.in,wazed,Md S Wazed Ali,119
+TXP361,TXP361@courses.iitd.ac.in,samrat,Samrat Mukhopadhyay,97
+TXP725,TXP725@courses.iitd.ac.in,rsr,R S Rengasamy,16
+TXP761,TXP761@courses.iitd.ac.in,apurba,Apurba Das,15
+TXQ302,TXQ302@courses.iitd.ac.in,kushal,Kushal Sen,120
+TXV702,TXV702@courses.iitd.ac.in,behera,B K Behera,57
+TXV707,TXV707@courses.iitd.ac.in,behera,B K Behera,31
+VED750,VED750@courses.iitd.ac.in,ravimr,M R Ravi,2
+VEL700,VEL700@courses.iitd.ac.in,ravimr,M R Ravi,60
+VEV731,VEV731@courses.iitd.ac.in,skohli,Sangeeta Kohli,1
+VEV732,VEV732@courses.iitd.ac.in,skohli,Sangeeta Kohli,0
+VEV735,VEV735@courses.iitd.ac.in,skohli,Sangeeta Kohli,0

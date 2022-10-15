@@ -1,0 +1,119 @@
+COL774@courses.iitd.ac.in
+115
+parags Parag Singla
+anz157549 Geeta
+anz157550 Himanshu Gandhi
+anz158497 Anupam Sobti
+anz168047 Varun Kumar
+anz168048 Kunal Dahiya
+anz168049 Akashdeep Bansal
+crf162923 Sahil Soneja
+cs1130224 Harman Kumar
+cs1130231 Kartikeya Gupta
+cs1130239 Nanavath Bharath Nayak
+cs1130249 Rajnish Kumar
+cs1130251 Rohan Das
+cs1140091 Ayush Bhardwaj
+cs1140201 Aayan Kumar
+cs1140202 Abhijeet Anand
+cs1140205 Aditi
+cs1140206 Aditya Kumar
+cs1140209 Aniket Ambar Bajpai
+cs1140211 Arkaprava Saha
+cs1140213 Ayushya Raj
+cs1140214 Balivada Venkata Saikiranpatnaik
+cs1140215 Chada Nikhil Reddy
+cs1140217 Dhairya Sandhyana
+cs1140220 Gurtej Singh Sohi
+cs1140221 Harsh Arya
+cs1140222 Harshil R Meena
+cs1140223 Himanshu Singh
+cs1140224 Jarupla Rohit Naik
+cs1140226 Kalla Venkat Nikhil Kumar
+cs1140227 Karan Dwivedi
+cs1140231 Kshitij Choudhary
+cs1140233 Mayank Rajoria
+cs1140234 Mayank Sharan
+cs1140235 Mickle Gill
+cs1140236 Mohammad Akram Khan
+cs1140237 Mohit Bajaj
+cs1140238 Mukund Rungta
+cs1140239 Muppidi Sai Vivek Reddy
+cs1140240 Nagarajan Harish
+cs1140244 Nitin Rathor
+cs1140245 Pankaj Kumar
+cs1140247 Prashant Mittal
+cs1140248 Rahul Kumar
+cs1140250 Sachin
+cs1140251 Sarvesh Chandoliya
+cs1140252 Saurabh Kumar
+cs1140253 Shardul Tripathi
+cs1140254 Shristi Goyal
+cs1140256 Shubham Rathi
+cs1140257 Soudagar Afzal Shama
+cs1140258 Sourav Das
+cs1140262 Uppalam Venkata Mukesh Kumar
+cs1140265 Vineeth Patibandla
+cs1140267 Vishnu Bhalaki
+cs1140268 Waghmare Saurabh Milind
+cs1140290 Prakhar Gupta
+cs1140423 Akshansh Chahal
+cs1140425 Amaresh Kumar
+cs1140485 Shreyan Gupta
+cs1140598 Pranav Pratap Singh
+cs1169012 Benoit Vrignaud
+cs5120277 Amar Agnihotri
+cs5120711 Ritesh Baldva
+cs5140277 Aditi Singla
+cs5140279 Ankush Phulia
+cs5140280 Ashley Jain
+cs5140282 Bipul Kumar
+cs5140283 Deepak Bhatt
+cs5140288 Momin Mahdihusain
+cs5140293 Rishubh Singh
+cs5140297 Vaibhav Bhagee
+cs5140435 Deepak Bansal
+cs5140462 Nikhil Gupta
+cs5140599 Praveen P Kulkarni
+csz158041 Dilpreet Kaur
+csz168119 Vishal Sharma
+csz168121 Indu Joshi
+jvl142690 Dharmarajan Sankaran
+mcs152334 Avantika Chhabra
+mcs152554 Divya Gautam
+mcs162557 Sunny Manchanda
+mcs162649 Ankita Jain
+mcs162650 Moin Ulislam Asmi
+mcs162651 Pooja Aggarwal
+mcs162652 Aditya Guru
+mcs162653 Arpit Aggarwal
+mcs162656 Aseem Saxena
+mcs162658 Bhavesh Sethi
+mcs162661 Shantanu Agarwal
+mcs162662 Priya
+mcs162663 Abhishek Kirtibhai Patel
+mcs162664 Ankita Saha
+mcs162665 Amit Jain
+mcs162666 Gauri Chitale
+mcs162667 Shaili Durgesh Shah
+mcs162668 Rohit Jindal
+mcs162669 Piyush Gupta
+mcs162673 Rajat Gupta
+mcs162675 Chaitanya Maheshbhai Patel
+mcs162678 Sapna
+mcs162679 Saurabh Sharma
+mcs162681 Shalini Panwar
+mcs162682 Ankit Kejriwal
+mcs162683 Manpreet Singh Agandh
+mcs162913 Shantwana
+mcs162936 Anushka Goyal
+me1130015 Gagan Madan
+mez158499 Maansi Gupta
+mez158500 Shobhit Raj Mathur
+smz168449 Abhishek Kumar
+vst169701 Mohit Desai
+vst169722 Ratindra Nath Pande
+vst169723 Tapeesh Gupta
+vst169726 Manikanth Kumar
+AMD310@courses.iitd.ac.in
+1
